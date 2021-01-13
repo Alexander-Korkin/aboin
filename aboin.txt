@@ -1,0 +1,228 @@
+@ABOIN:
+KOPEISK-3   UC:B/20-11-03/13-16-57 CARACTERISTIQUES DE LIGNES D"ABONNES   
+@NE=19-0-8<63:
+     ND = 77320          NE = 19-0-8         TAX = 51567
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002408 + 00000000
+     ND = 77321          NE = 19-0-9         TAX = 24528
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002409 + 00000000
+     ND = 77322          NE = 19-0-10        TAX = 67378
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000240A + 00000000
+     ND = 77323          NE = 19-0-11        TAX = 39808
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000240B + 00000000
+     ND = 77324          NE = 19-0-12        TAX = 33038
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000240C + 00000000
+     ND = 77325          NE = 19-0-13        TAX = 12619
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000240D + 00000000
+     ND = 77326          NE = 19-0-14        TAX = 34212
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000240E + 00000000
+     ND = 77327          NE = 19-0-15        TAX = 38014
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000240F + 00000000
+     ND = 77328          NE = 19-0-16        TAX = 24109
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002410 + 00000000
+     ND = 77329          NE = 19-0-17        TAX = 19367
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002411 + 00000000
+     ND = 77330          NE = 19-0-18        TAX = 38721
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002412 + 00000000
+     ND = 77331          NE = 19-0-19        TAX = 13089
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002413 + 00000000
+     ND = 77332          NE = 19-0-20        TAX = 32593
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002414 + 00000000
+     ND = 77333          NE = 19-0-21        TAX = 82047
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002415 + 00000000
+     ND = 77334          NE = 19-0-22        TAX = 15425
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002416 + 00000000
+     ND = 77335          NE = 19-0-23        TAX = 47277
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002417 + 00000000
+     ND = 77336          NE = 19-0-24        TAX = 18409
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002418 + 00000000
+     ND = 77337          NE = 19-0-25        TAX = 9598
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002419 + 00000000
+     ND = 77338          NE = 19-0-26        TAX = 10800
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000241A + 00000000
+     ND = 77339          NE = 19-0-27        TAX = 30239
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000241B + 00000000
+     ND = 77340          NE = 19-0-28        TAX = 15900
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000241C + 00000000
+     ND = 77341          NE = 19-0-29        TAX = 203812
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 0000241D + 00000000
+     ND = 77342          NE = 19-0-30        TAX = 37185
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000241E + 00000000
+     ND = 77343          NE = 19-0-31        TAX = 37699
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000241F + 00000000
+     ND = 77344          NE = 19-0-32        TAX = 36742
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002420 + 00000000
+     ND = 77345          NE = 19-0-33        TAX = 31568
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002421 + 00000000
+     ND = 77346          NE = 19-0-34        TAX = 81633
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002422 + 00000000
+     ND = 77347          NE = 19-0-35        TAX = 148361
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002423 + 00000000
+     ND = 77348          NE = 19-0-36        TAX = 37597
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002424 + 00000000
+     ND = 77349          NE = 19-0-37        TAX = 87537
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002425 + 00000000
+     ND = 77350          NE = 19-0-38        TAX = 16329
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002426 + 00000000
+     ND = 77351          NE = 19-0-39        TAX = 51086
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002427 + 00000000
+     ND = 77352          NE = 19-0-40        TAX = 203060
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002428 + 00000000
+     ND = 77353          NE = 19-0-41        TAX = 47223
+          TY = KLA + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002429 + 00000000
+     ND = 77354          NE = 19-0-42        TAX = 18814
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 0000242A + 00000000
+     ND = 77355          NE = 19-0-43        TAX = 48746
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000242B + 00000000
+     ND = 77356          NE = 19-0-44        TAX = 29136
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000242C + 00000000
+     ND = 77357          NE = 19-0-45        TAX = 5494
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000242D + 00000000
+     ND = 77358          NE = 19-0-46        TAX = 45031
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 0000242E + 00000000
+     ND = 77359          NE = 19-0-47        TAX = 26151
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000242F + 00000000
+     ND = 77360          NE = 19-0-48        TAX = 32470
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002430 + 00000000
+     ND = 77361          NE = 19-0-49        TAX = 130152
+          TY = KLA + MIX + SR4 + GAB1
+          CAT = DAP + CT1 + CH1 + ZG1
+     INFO = 00002431 + 00000000
+     ND = 77362          NE = 19-0-50        TAX = 48132
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002432 + 00000000
+     ND = 77363          NE = 19-0-51        TAX = 74900
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002433 + 00000000
+     ND = 77364          NE = 19-0-52        TAX = 28021
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002434 + 00000000
+     ND = 77365          NE = 19-0-53        TAX = 843
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002435 + 00000000
+     ND = 77366          NE = 19-0-54        TAX = 25515
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002436 + 00000000
+     ND = 77367          NE = 19-0-55        TAX = 19504
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002437 + 00000000
+     ND = 77368          NE = 19-0-56        TAX = 25684
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 00002438 + 00000000
+     ND = 77369          NE = 19-0-57        TAX = 148595
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 00002439 + 00000000
+     ND = 77370          NE = 19-0-58        TAX = 48836
+          TY = KLA + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 0000243A + 00000000
+     ND = 77371          NE = 19-0-59        TAX = 30779
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000243B + 00000000
+     ND = 77372          NE = 19-0-60        TAX = 13662
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000243C + 00000000
+     ND = 77373          NE = 19-0-61        TAX = 3242
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000243D + 00000000
+     ND = 77374          NE = 19-0-62        TAX = 25029
+          TY = CAD + SUS + MIX + SR4 + GAB1
+          CAT = CT1 + CH8 + ZG1
+     INFO = 0000243E + 00000000
+     ND = 77375          NE = 19-0-63        TAX = 32370
+          TY = CAD + MIX + SR4 + GAB1
+          CAT = CT1 + CH1 + ZG1
+     INFO = 0000243F + 00000000
+EXC
