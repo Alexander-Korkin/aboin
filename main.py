@@ -1,9 +1,9 @@
 # import numpy as np
 from sys import argv
 
-
 ne_decoded = [-1, -1, -1]
 level_list = []
+ne_list = [[], [], [], []]
 
 if (len(argv)) < 2:
     exit('No file name')
@@ -27,6 +27,10 @@ with open(file_name, 'r', encoding='utf-8') as f_txt:
             # print(f'URA = {ne_decoded[0]}, level = {ne_decoded[1]}, user = {ne_decoded[2]}, status: SUS')
             n_user = int(ne_decoded[2])
             level_list.insert(n_user, 0)
+            ne_list[0].insert(n_user, 0)
+            ne_list[1].insert(n_user, ne_decoded[1])
+            ne_list[2].insert(n_user, ne_decoded[2])
+            ne_list[3].insert(n_user, ne_decoded[0])
             # sus_pos = -1
             # ne_pos = -1
             # ne_decoded = [-1, -1, -1]
@@ -35,14 +39,38 @@ with open(file_name, 'r', encoding='utf-8') as f_txt:
             # print(f'URA = {ne_decoded[0]}, level = {ne_decoded[1]}, user = {ne_decoded[2]}')
             n_user = int(ne_decoded[2])
             level_list.insert(n_user, 1)
+            ne_list[0].insert(n_user, 1)
+            ne_list[1].insert(n_user, ne_decoded[1])
+            ne_list[2].insert(n_user, ne_decoded[2])
+            ne_list[3].insert(n_user, ne_decoded[0])
 
     # print(level_list)
     # print(len(level_list))
 
 res = ''
+unit = ''
 for i in range(len(level_list)):
+    ne = f'{ne_list[3][i]}-{ne_list[1][i]}-{ne_list[2][i]} '
+    if (len(unit) == 0) or (unit[-1] == '\n'):
+        res += ne
+
     unit = str(level_list[i]) + '\n' if (i + 1) % 8 == 0 else str(level_list[i])
+
+    if unit[-1] == '\n':
+        status_eao = res[-8:] + unit[-2]
+        status_eao = status_eao.replace(' ', '')
+        if status_eao.count('0') == 8:
+            unit = unit[-2] + ' No users\n'
+
+        # print(prod)
+        # print('u='+res[-8:]+unit[-2])
+
     res += unit
 
 print(res)
-input('Press Enter...')
+"""print(ne_list[0])  # status
+print(ne_list[2])  # ne user
+print(ne_list[1])  # ne level
+print(ne_list[3])  # ne ura"""
+
+# input('Press Enter...')
